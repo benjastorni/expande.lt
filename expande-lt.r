@@ -14,6 +14,7 @@ if(colnames(puente)[54] != "ESPECIE_1"){
     stop("La base PUENTE no tiene el formato correcto.\n La columna 54 debe ser 'ES
     PECIE_1'!")
 }
+
 if(length(which(is.na(puente$AREA_BARR))) != 0){
     stop(paste0("La base PUENTE no tiene el formato correcto.\n Tiene ", length(which(is.na(puente$AREA_BARR))), " lance(s) sin dato de area barrida"))
 }
