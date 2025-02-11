@@ -7,6 +7,7 @@ The function is published in:
 ## Usage Policy
 This feature is free to use and open-source. It can be used, shared, and modified according to the user's needs. The authors are not responsible for the use of the results obtained and reserve the right to make any changes they deem appropriate at any time they consider necessary.
 
+# expande.lt
 Función en R para estimar las distribuciones de longitudes de poblaciones de peces a partir de datos de campañas científicas
 
 La función está publcada en:
